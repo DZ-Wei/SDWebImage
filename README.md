@@ -165,7 +165,7 @@ pod 'SDWebImage/WebP'
 
 ### Installation with Carthage (iOS 8+)
 
-[Carthage](https://github.com/Carthage/Carthage) is a lightweight dependency manager for Swift and Objective-C. It leverages CocoaTouch modules and is less invasive than CocoaPods.
+[Carthage](https://github.com/Carthage/Carthage) is a lightweight dependency manager for Swift and Objective-C. It leverages CocoaTouch modules and is less invasive than CocoaPods..
 
 To install with carthage, follow the instruction on [Carthage](https://github.com/Carthage/Carthage)
 
@@ -211,3 +211,5 @@ All source code is licensed under the [MIT License](https://raw.github.com/rs/SD
 <p align="center" >
     <img src="Docs/SDWebImageSequenceDiagram.png" title="SDWebImage sequence diagram">
 </p>
+
+
